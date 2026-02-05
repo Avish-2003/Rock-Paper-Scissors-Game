@@ -24,5 +24,5 @@ This project allows users to play against the computer with instant result updat
 
 ---
 
-## 📂 Project Structure
+
 
